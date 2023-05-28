@@ -2,10 +2,10 @@
   
 [Notebook viewer](https://nbviewer.org/github/ootho/btc_timeseries_analysis/blob/master/price_prediction.ipynb)  
   
-## The purpose and objectives of the project  
+## Цель и задачи проекта  
   
-Main purpose is to attempt to predict price movement for the next day.  
-In order to do that we will use multivariate time-series with many financial indicators like stock-to-flow, fear-greed index and so on.  Main idea of this attepmt is to use `mined blocks` instead of time on `x` axis in order to halving cycles be more regular.
+Цель проекта заключается в попытке предсказать движение цены на следующий день.  
+Для этого будет использован временной ряд цены биткоина с множеством финансовых индикаторов, таких как `stock-to-flow`, индекс страха/жадности и др. Основная идея - использовать количество намайненых блоков вместо времени на оси `x`, чтобы сделать период циклов более регулярным.
   
 <br>
 
