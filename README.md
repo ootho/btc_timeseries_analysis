@@ -1,4 +1,4 @@
-#  Bitcoin price prediction
+#  Предсказание цены биткоина
   
 [Notebook viewer](https://nbviewer.org/github/ootho/btc_timeseries_analysis/blob/master/price_prediction.ipynb)  
   
