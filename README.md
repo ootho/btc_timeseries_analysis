@@ -1,4 +1,4 @@
-#  Bitcoin halving cycles  
+#  Crypto forecasting 
   
 [Notebook viewer](https://nbviewer.org/github/ootho/crypto_forecasting/tree/master/features/halving_cycles/halving_cycles.ipynb)  
 
