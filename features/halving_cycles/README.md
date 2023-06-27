@@ -1,6 +1,6 @@
 #  Bitcoin halving cycles  
   
-[Notebook viewer](https://nbviewer.org/github/ootho/crypto_forecasting/tree/master/features/halving_cycles/halving_cycles.ipynb)  
+[View notebook on kaggle](https://www.kaggle.com/code/danilovdaniil/halving-cycles)  
 
 ## The purpose and objectives of the project  
   
